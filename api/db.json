@@ -1,0 +1,37 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "This is great stream",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Yes i like it",
+      "id": 2
+    },
+    {
+      "title": "Progamatic Navigation",
+      "description": "You should go to streamyyy",
+      "userId": "110122188409440529527",
+      "id": 4
+    },
+    {
+      "title": "My Stream Create refactor",
+      "description": "hahaha",
+      "id": 5
+    },
+    {
+      "title": "arlind",
+      "description": "borova",
+      "userId": "110122188409440529527",
+      "id": 6
+    },
+    {
+      "title": "vlerantaxaxsadxsa",
+      "description": "vetonix",
+      "userId": "110122188409440529527",
+      "id": 7
+    }
+  ]
+}
